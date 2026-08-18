@@ -1,2 +1,2 @@
 # DSA
-Leetcode and GFG problem
+Leetcode  problem
